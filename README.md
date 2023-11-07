@@ -11,7 +11,6 @@
   - [🛠 Built With](#-built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    - [ERD](#erd)
     - [Front-End Project](#front-end)
   - [💻 Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
