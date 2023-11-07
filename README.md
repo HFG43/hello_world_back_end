@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1><b>Final Capstone Back-End</b></h1>
+  <h1><b>Hello World Back-End</b></h1>
 </div>
 
 # 📗 Table of Contents
@@ -32,7 +32,7 @@
 
 # About <a name="about-project"></a>
 
-**"Final Capstone Back-End"** is an API designed to host various gastronomic experiences, user records, and user reservations for different experiences. The allowed actions in this app are to create a new user, create, delete, and get reservations as well as get experiences. It was designed in Ruby on Rails and PostgreSQL.
+**"Hello World Back-End"** is an API created to generate Random Greeting messages. A project design to practice generating a Project with two apps.
 
 ---
 
@@ -47,8 +47,6 @@
   <ul>
     <li><a href="https://guides.rubyonrails.org/">Ruby on Rails (v7.0.8)</a></li>
     <li><a href="https://www.postgresql.org/docs/">PostgreSQL</a></li>
-    <li><a href="https://github.com/rswag/rswag">API Documentation (Swagger)</a></li>
-    <li><a href="https://hackernoon.com/how-to-write-your-first-tests-using-rspec-in-rails-applications-hhfk2bqs">Rspec</a></li>
   </ul>
 </details>
 
@@ -63,20 +61,11 @@
 
 ### Key Features <a name="key-features"></a>
 
-<ul>
-  <li>Ruby on Rails framework</li>
-  <li>
-    Use Linters to check code quality
-    <ul>
-      <li>Rubocop</li>
-    </ul>
-  </li>
-  <li>MVC architectural/design pattern</li>
-  <li>Data persistent in PostgreSQL</li>
-  <li>RESTful API</li>
-  <li>Swagger to generate API doc</li>
-  <li>Users, Experiences and Reservations endpoints</li>
-</ul>
+- **Generate a Rails - API app**
+- **Create Greetings Table to store Greeting Messages**
+- **Create an API endpoint that selects a random greeting message**
+- **Generate Greeting Model and Greetings Controller**
+- **Generate Routes Api:V1 for endpoint**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
